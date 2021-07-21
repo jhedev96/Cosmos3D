@@ -1,4 +1,4 @@
-# cosmos3d
+# Cosmos3D
 
 Created with CodeSandbox
 
